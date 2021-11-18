@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+DevNite Dokumentation
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+**DevNite** ist ein Open Source Projekt welches ein DEV-Server von Fortnite ist.
+Um **DevNite** herunterzuladen müsst ihr erst unserem Discord Server beitreten. 
+Dieser ist gerade aber Privat.
 
 .. note::
 
-   This project is under active development.
+   Wir arbeiten an einem Update!
+   
+.. attention::
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+   Aufgrund dem Profilpatch von EpicGames ist DevNite nur eingeschränkt verfügbar!
